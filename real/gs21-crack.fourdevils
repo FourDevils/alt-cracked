@@ -1,0 +1,8 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/Seller-Tools/main/Seller%20Tools%3A%20Script'))()
+local StarterGui = game:GetService("StarterGui")
+
+CoreGui:SetCore("SendNotification", {
+	Title = "FourDevils#6666";
+	Text = "GS21 Cracked";
+	Duration = 9999999999999999999999999;
+})
